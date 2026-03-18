@@ -20,7 +20,7 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH.  At fH the gain 
  <img width="602" height="346" alt="image" src="https://github.com/user-attachments/assets/db9d11c7-e823-46f2-bb3e-635a71cbd0b2" />
 
 ## TABULATION: LOW PASS FILTER
-                                                                                      		
+                tabulation                                                                       		
 ## GRAPH: LOW PASS FILTER
 
 ## HIGH PASS FILTER
